@@ -11,7 +11,7 @@ Ejemplo: Para grabar el programa "hoge" de TBS en Tokio durante 10 minutos.
 RADIKO_AREA_ID=JP13 python src/app.py TBS hoge 10
 ```
 
-### Contenedor docker
+### Contenedor Docker
 
 Al construir y ejecutar la imagen, empezará a aceptar solicitudes HTTP en el puerto 8080.
 Ejemplo: Para grabar el programa "hoge" de TBS durante 10 minutos.
